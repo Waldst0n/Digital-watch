@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  min-height: 100vh;
+  background: rgb(170, 179, 80);
+  background: linear-gradient(
+    90deg,
+    rgba(170, 179, 80, 1) 11%,
+    rgba(121, 9, 115, 1) 50%,
+    rgba(0, 255, 188, 1) 100%
+  );
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
